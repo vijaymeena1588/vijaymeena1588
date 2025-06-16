@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello World 👋, I'm Vijay Kumar Meena</h1>
+<h3 align="center">A passionate Electrical & AI engineer from India, building smart solutions with Machine Learning, IoT, and Embedded Systems for real-world impact. ⚡🤖</h3>
 
 - 🔭 I’m currently working on **Smart AI Waste Bin – Official AI Project under DSW, VIT Vellore Designing a fully automatic smart bin that detects, classifies, and stores different types of waste using AI, sensors, and embedded systems for sustainable waste management.**
 
