@@ -1,9 +1,9 @@
 <h1 align="center">Hello World 👋, I'm Vijay Kumar Meena</h1>
-<h3 align="center">I integrate core engineering fundamentals with AI-driven problem solving to develop sustainable, automated, and EV-focused solutions. Open to opportunities in Machine Learning, Data Science, Electric Vehicles, IoT, Power Systems, and Embedded Systems, I aspire to contribute to innovative projects at the intersection of AI and electrical engineering. ⚡🤖</h3>
+<h3 align="center">A passionate Electrical and AI Engineer from India, committed to pioneering innovations that accelerate the transition towards a fully automated, sustainable, and intelligently connected world.⚡🤖</h3>
 
 
 
-- 🔭 I’m currently working on **Smart AI Waste Bin – Official AI Project under DSW, VIT Vellore Designing a fully automatic smart bin that detects, classifies, and stores different types of waste using AI, sensors, and embedded systems for sustainable waste management.**
+- 🔭 I integrate core engineering fundamentals with AI-driven problem solving to develop sustainable, automated, and EV-focused solutions. Open to opportunities in Machine Learning, Data Science, Electric Vehicles, IoT, Power Systems, and Embedded Systems, I aspire to contribute to innovative projects at the intersection of AI and electrical engineering. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaymeena1588&show_icons=true&locale=en" alt="vijaymeena1588" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaymeena1588&" alt="vijaymeena1588" /></p>
+
